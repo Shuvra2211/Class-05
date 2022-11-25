@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.product_card1{
+    background-image: linear-gradient(45deg, red,yellow,orange);
+    padding: 10px 15px;
+    width: 300px;
+    margin: 10px 15px;
+    border: 5px solid red;
+}
+.p1{
+    background: green;
+    text-align: center;
+}
+.ul1{
+    padding: 10px;
+    border-bottom: 5px double black;
+    
+}
+
+.taka1{
+    padding: 15px;
+    text-align: center;
+}
+
+.ancore1{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #E6E6FA;
+}
+
+
+
+
+
+.product_card2{
+    background-image: linear-gradient(45deg, green,#FFD700,orange);
+    padding: 10px 15px;
+    width: 300px;
+    margin: 10px 15px;
+    border: 5px solid red;
+}
+.p2{
+    background: #00FF7F;
+    text-align: center;
+}
+.ul2{
+    padding: 10px;
+    border-bottom: 5px double black;
+    
+}
+
+.taka2{
+    padding: 15px;
+    text-align: center;
+}
+
+.ancore2{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #E6E6FA;
+}
+
+
+
+
+
+
+.product_card3{
+    background-image: linear-gradient(45deg, #00FFFF,#00BFFF,#0000FF);
+    padding: 10px 15px;
+    width: 300px;
+    margin: 10px 15px;
+    border: 5px solid red;
+}
+.p3{
+    background: yellow;
+    text-align: center;
+}
+.ul3{
+    padding: 10px;
+    border-bottom: 5px double black;
+    
+}
+
+.taka3{
+    padding: 15px;
+    text-align: center;
+}
+
+.ancore3{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #E6E6FA;
+}
+
+
+
+
+
+
+
+
+
+
+.product_card4{
+    background-image: linear-gradient(45deg, #FF0000,#FFA07A,#E9967A);
+    padding: 10px 15px;
+    width: 300px;
+    margin: 10px 15px;
+    border: 5px solid red;
+}
+.p4{
+    background: #9400D3;
+    text-align: center;
+}
+.ul4{
+    padding: 10px;
+    border-bottom: 5px double black;
+    
+}
+
+.taka4{
+    padding: 15px;
+    text-align: center;
+}
+
+.ancore4{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #E6E6FA;
+}
+
+
+
+
+
+
+
+
+
+.product_card5{
+    background-image: linear-gradient(45deg, white,#6A5ACD,#483D8B);
+    padding: 10px 15px;
+    width: 300px;
+    margin: 10px 15px;
+    border: 5px solid red;
+}
+.p5{
+    background: #00FF00;
+    text-align: center;
+}
+.ul5{
+    padding: 10px;
+    border-bottom: 5px double black;
+    
+}
+
+.taka5{
+    padding: 15px;
+    text-align: center;
+}
+
+.ancore5{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #E6E6FA;
+}
